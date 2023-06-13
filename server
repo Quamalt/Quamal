@@ -1,0 +1,5 @@
+CREATE DATABASE jeanclaudepicat;
+CREATE TABLE Dev(
+    Username varchar(19),
+    Password varchar[(8|21)]
+);
