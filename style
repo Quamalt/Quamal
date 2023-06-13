@@ -1,0 +1,15 @@
+h1, h2, h3{
+    color: rgb(65, 2, 2);
+}
+b{
+    color: rgb(71, 0, 104);
+    
+}
+a{
+    color: brown ;
+    font: 1em "Times New Roman";
+    border: 3.4px solid hsl(0, 0%, 0%);
+}
+body{
+    background-color: rgb(0, 136, 177);
+}
