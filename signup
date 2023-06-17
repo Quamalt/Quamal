@@ -11,6 +11,6 @@
     <hr>
     <input type="text"placeholder="Password">
     <hr>
-    <button>Confirm</buttton>
+    <button>Confirm</button>
 </body>
 </html>
