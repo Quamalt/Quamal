@@ -7,12 +7,12 @@
     <title>StoneSteinTimesLogIn</title>
     <link rel="stylesheet" href="./style.css">
 </head>
-<body>
-    <input type="text"placeholder="UserName">
-    <hr>
-    <input type="text"placeholder="Password">
-    <hr>
-    <button>Confirm</button>
-
+<body class="login">
+    <input type="text"placeholder="UserName" class="user1">
+    
+    <input type="text"placeholder="Password" class="pass1">
+    <div class="boxsign1"></div>
+    <button class="signcon1">Confirm</button>
+    <h1 class="loghead">Welcome to The Stone Stein Times Login Page</h1>
 </body>
 </html>
